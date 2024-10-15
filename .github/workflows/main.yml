@@ -34,7 +34,7 @@ jobs:
         uses: cross-the-world/ssh-scp-ssh-pipelines@latest
         with:
           host: '65.1.147.194'
-          user: 'labuser'
+          user: 'labsuser'
           pass: 'Nuvelabs123$'
           port: 22
           connect_timeout: 10s
